@@ -1,5 +1,12 @@
 """
-PROGRAM DESCRIPTION : Python program to perform Monkey Testing
+Program Description : Python program to perform Monkey Testing
+Programmer : Suman Gangopadhyay
+Email ID : linuxgurusuman@gmail.com
+Date : 1-Jan-2025
+Version : 1.0
+Code Library : Selenium
+Prerequisites : Python, Selenium, ChromeDriver
+Caveats : None
 """
 
 from selenium import webdriver
