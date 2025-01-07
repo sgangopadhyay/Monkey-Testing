@@ -26,9 +26,6 @@ The program navigates to a specified URL, scrolls to a specific point on the pag
 - Selenium
 - ChromeDriver
 - WebDriver Manager
-- Python 3.x
-- Selenium
-- WebDriver Manager
 
 ## Installation
 
