@@ -1,4 +1,4 @@
-# Monkey Testing with Selenium
+# Monkey Testing with Python Selenium
 
 ## Description
 
